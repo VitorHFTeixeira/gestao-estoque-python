@@ -25,7 +25,7 @@ de interfaces gráficas e integração com bancos de dados.
 
 ###  Tela Principal
 
-![Tela principal do sistema](screenshots/Tela-Principal.png)
+![Tela principal do sistema](screenshots/Tela-Principall.png)
 
 ##  Como executar
 
