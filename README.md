@@ -23,8 +23,9 @@ de interfaces gráficas e integração com bancos de dados.
 
 ## 🖥️ Demonstração do sistema
 
-Em breve, serão adicionadas imagens das telas
-e das funcionalidades da aplicação.
+### 📸 Tela Principal
+
+![Tela principal do sistema](screenshots/Tela-Principal.png)
 
 ## ⚙️ Como executar
 
